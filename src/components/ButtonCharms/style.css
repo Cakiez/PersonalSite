@@ -1,0 +1,16 @@
+.charm-style {
+    height: 1rem;
+    width: 1rem;
+    margin-bottom: 3rem;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    background-color: #272727;
+    border: 2px solid #212629;
+    border-radius: 1em;
+    padding: 1.25rem;
+    box-shadow: 0 -15px 15px hsla(0,0%,100%,.05), inset 0 -15px 15px hsla(0,0%,100%,.05), 0 -5px 5px rgba(0,0,0,.2), inset 0 15px 15px rgba(0,0,0,.2);
+    cursor: pointer;
+}
